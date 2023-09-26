@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<h3><b>📗 Hello React Frontend</b></b></h3>
+<h3><b>📗 Hello Rails Frontend</b></b></h3>
 
 </div>
 
 # 📗 Table of Contents
 
-- [📖 Hello React Frontend](#-anancy-bookstore-)
+- [📖 Hello Rails Frontend](#-anancy-bookstore-)
     - [🛠 Built With ](#-built-with-)
         - [Tech Stack ](#tech-stack-)
         - [Key Features ](#key-features-)
@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello React Frontend <a name="about-project"></a>
+# 📖 Hello Rails Frontend <a name="about-project"></a>
 
 This app is a project assignment where we are required to connect react to rails. features include React Hooks,React Router, App-wide State Management with Redux & Redux Toolkit and API calls with Axios.
 
@@ -38,7 +38,7 @@ This app is a project assignment where we are required to connect react to rails
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/-React%20Router-316192?style=for-the-badge&logo=react-router)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 <!-- Features -->
 
@@ -52,8 +52,6 @@ This app is a project assignment where we are required to connect react to rails
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-### Live Demo <a name = "live-demo"></a>
 
 ### Prerequisites
 
