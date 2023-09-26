@@ -52,6 +52,10 @@ This app is a project assignment where we are required to connect react to rails
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
+## Link to Rails API
+
+You can find the Rails API repository [here](https://github.com/lincoln1883/hello-rails-backend/pull/1).
+
 
 ### Prerequisites
 
